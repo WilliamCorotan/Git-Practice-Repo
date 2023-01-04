@@ -4,6 +4,7 @@ import { setupCounter } from './counter.js'
 
 document.querySelector('#app').innerHTML = `
   <div>
+    <h1> GIt and Github demo </h1>
     <p> Hello SP404 </p> 
     <p> added a new paragraph </p> 
 
