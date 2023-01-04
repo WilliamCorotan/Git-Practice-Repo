@@ -7,6 +7,7 @@ document.querySelector('#app').innerHTML = `
     <h1> GIt and Github demo </h1>
     <p> Hello SP404 </p> 
     <p> added a new paragraph </p> 
+    <p> added another paragraph </p> 
 
   </div>
 `
